@@ -2,7 +2,7 @@
 tags: [Life]
 title: Wedding
 created: '2022-02-28T03:28:52.180Z'
-modified: '2022-02-28T04:30:02.456Z'
+modified: '2022-03-12T23:48:07.187Z'
 ---
 
 # Wedding
@@ -17,7 +17,7 @@ modified: '2022-02-28T04:30:02.456Z'
   * Probably just pants and shirts
 * Dresses for brides mades
 * Photographer
-  * Enagements
+  * Enagements - **Done some time in April**
   * Wedding
   * Bridals?
   * We will need to plan places
@@ -36,7 +36,7 @@ The photos are really important, so we need to get a professional.  This include
   * Food
     * When it comes to food, less is more.
     * Since our reception is small, we might be able to provide a small meal
-  * Music
+  * Music - Nathan
   * Should we do dancing?
   * Do we want a dance party?
   * Do we want slide show?

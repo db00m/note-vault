@@ -2,10 +2,12 @@
 tags: [Life]
 title: Wedding
 created: '2022-02-28T03:28:52.180Z'
-modified: '2022-03-12T23:48:07.187Z'
+modified: '2022-03-16T03:30:11.253Z'
 ---
 
+
 # Wedding
+
 
 * Venues
   * find a place that does the decorations
@@ -23,6 +25,12 @@ modified: '2022-03-12T23:48:07.187Z'
   * We will need to plan places
 * Plan how to leave the reception?
 * Food for the reception
+
+## Dinner thingy
+
+* Night before would be best
+
+* We need a count of the peole
 
 
 ## Photos

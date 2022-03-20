@@ -2,7 +2,7 @@
 tags: [Church]
 title: 'Ward Council March 20, 2022'
 created: '2022-03-20T18:16:18.920Z'
-modified: '2022-03-20T19:03:35.841Z'
+modified: '2022-03-20T19:05:25.277Z'
 ---
 
 # Ward Council March 20, 2022
@@ -23,6 +23,7 @@ modified: '2022-03-20T19:03:35.841Z'
   * There will be 8 to 12 people from the ward that will be asked to participate in this.
   * The people from our ward will participate every Sunday in June
 * Church Ball will start soon
+* Linger longer next week
 
 <center>
 

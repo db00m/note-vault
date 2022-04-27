@@ -1,8 +1,8 @@
 ---
-tags: [Church]
+tags: [Church, Ward Council]
 title: 'Ward Council April 10, 2022'
 created: '2022-04-10T17:38:14.036Z'
-modified: '2022-04-10T18:19:29.774Z'
+modified: '2022-04-24T17:43:21.590Z'
 ---
 
 # Ward Council April 10, 2022

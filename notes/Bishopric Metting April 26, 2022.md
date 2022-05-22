@@ -1,11 +1,11 @@
 ---
 tags: [Bishopric Meeting]
-title: Bishopric Metting (4/26/2022)
+title: 'Bishopric Metting April 26, 2022'
 created: '2022-04-27T00:37:44.398Z'
-modified: '2022-04-27T01:16:52.770Z'
+modified: '2022-05-22T18:24:07.251Z'
 ---
 
-# Bishopric Metting (4/26/2022)
+# Bishopric Metting April 26, 2022
 
 ## General Notes
 

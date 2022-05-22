@@ -1,11 +1,11 @@
 ---
 tags: [Bishopric Meeting, Church]
-title: Bishopric Meeting 4/6/22
+title: 'Bishopric Meeting April 6, 22'
 created: '2022-04-07T01:23:30.902Z'
-modified: '2022-04-07T02:13:50.919Z'
+modified: '2022-05-22T18:23:47.636Z'
 ---
 
-# Bishopric Meeting 4/6/22
+# Bishopric Meeting April 6, 22
 
 ## General Notes
 

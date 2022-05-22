@@ -2,7 +2,7 @@
 tags: [Ward Council]
 title: 'Ward Council May 22, 2022'
 created: '2022-05-22T17:33:35.566Z'
-modified: '2022-05-22T18:23:22.312Z'
+modified: '2022-05-22T18:30:26.393Z'
 ---
 
 # Ward Council May 22, 2022
@@ -12,6 +12,8 @@ modified: '2022-05-22T18:23:22.312Z'
 * Fith sunday will be on the tabernacle
 
 * 13th FHE we will tour the Layton Temple 
+
+* Wednesday at 6 Bishop will be at the church for Temple recommends
 
 ## Fith Sunday
 
@@ -43,6 +45,3 @@ modified: '2022-05-22T18:23:22.312Z'
 |Audio Visual for 5th Sunday|Sam|
 |Setup for fith Sunday|Sam|
 
-```python
-
-```

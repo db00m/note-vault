@@ -1,11 +1,11 @@
 ---
 tags: [Ward Council]
-title: Ward Council 4/24/2022
+title: 'Ward Council April 24, 2022'
 created: '2022-04-24T17:42:27.749Z'
-modified: '2022-04-24T18:10:12.910Z'
+modified: '2022-05-22T18:26:16.756Z'
 ---
 
-# Ward Council 4/24/2022
+# Ward Council April 24, 2022
 
 ## General Notes
 

@@ -2,7 +2,7 @@
 tags: [Ward Council]
 title: 'Ward Council June 5, 2022'
 created: '2022-06-05T17:13:31.074Z'
-modified: '2022-06-05T17:57:29.794Z'
+modified: '2022-06-05T18:10:32.808Z'
 ---
 
 # Ward Council June 5, 2022
@@ -37,6 +37,10 @@ modified: '2022-06-05T17:57:29.794Z'
 * Baptism this Saturday!
   * Megan (unknown last name)
   * We need to find a place to do the baptism
+
+## Relief Society
+
+* New ministering assigments, currently in the process of letting people know 
 
 ## Assignemnts
 

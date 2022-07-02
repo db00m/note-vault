@@ -2,7 +2,7 @@
 tags: [Church]
 title: Talk on March 13
 created: '2022-03-06T20:16:37.866Z'
-modified: '2022-03-13T19:07:05.087Z'
+modified: '2022-06-26T14:20:02.226Z'
 ---
 
 # Talk on March 13
@@ -19,9 +19,16 @@ modified: '2022-03-13T19:07:05.087Z'
 
 ## Ways we can lose hope
 
-With every thing that has been going on in the world, a lot has been on my mind. Having friends who served their missions in Ukrane and a boss who is from Belarus, I've been following the war in Ukrane very closely. Every time I read a new story about the situation, I am sadded by the loss, ditruction, and desitation that has plauged the Ukrainian people these past few weeks.  However, thier sad story is not one to be told over this pulpit in this sacred meeting, so I won't go into any more detail on thier situtation.  Thier situtation has led me to think about what I might say to the Ukrainian people if I was given the chance to speak to them.  How could I fill them with hope in such a hopless situation.  This oprotunity wil probably never come, but they are not the only people who need hope in this world.  The world we live in is a crazy place, and it's easy to get cought up in the hoplessness of it and become depressed.  The goal of my message today is to inspire myself—and hopefully all of you with me—to hope a little more and become a little happier.
+### **Introduce Your Self**
 
-To be honest, the main inspiration for my thoughts today didn't come from the scriptures or general conference talk.  A few weeks ago I was reading one of my favorite book of all time, _The Siver Chair_ by C. S. Lewis. For those of you that are unfamilary with C. S. Lewis and his works, _The Silver Chair_ is the fourth in the Chronicals of Narina series.  Near the end of the book, the main characters—Eustace, Jill, and Puddleglum—were trapped undground with the green lady.  In this scene, the green lady was using her magic to convice the heros that there was nothing in the world above them and the depressing undergound world they had fallen into was the only world that existed.  This depressed Eustace, Jill, and Pudleglum becuase the green lady had started to convince them that the Sun, the sky, Narnia, and every thing they loved was just in their heads.  Just before hope was lost, Puddleglum says something along the lines of this:
+* Are you okay with who you are today?
+  * Image that after today you were unable to change and you were currenly stuck exactly where you are with no progression in any aspect of your life.
+
+> I don't want to jsut be fine. I don't want to just be good.  There's an aching to be something more.
+
+* Today I've decided to speaking on hope, the hope that we can become more than we are today.
+
+To be honest, the main inspiration for my thoughts today didn't come from the scriptures or general conference talk.  A few weeks ago I was reading one of my favorite books of all time, _The Siver Chair_ by C. S. Lewis. For those of you that are unfamilar with C. S. Lewis and his works, _The Silver Chair_ is the fourth novel in the Chronicals of Narina series.  Near the end of the book, the main characters—Eustace, Jill, and Puddleglum—were trapped undground with the green lady.  In this scene, the green lady was using her magic to convice the heros that there was nothing in the world above them and the depressing undergound world they had fallen into was the only world that existed.  This depressed Eustace, Jill, and Pudleglum becuase the green lady had started to convince them that the Sun, the sky, Narnia, and every thing they loved was just in their heads.  Just before hope was lost, Puddleglum says something along the lines of this:
 > "you won't make me forget Narnia; and the whole Overworld too. We'll never see it again, I shouldn't wonder. You mayhave blotted it out and turned it dark like this, for all I know. Nothing more likely. But I know I was there once. I've seen the sky full of stars. I've seen the sun coming up out of the sea of a morning and sinking behind the mountains at night. And I've seen him up in the midday sky when I couldn't look at him for brightness."
 
 
@@ -40,7 +47,7 @@ In the begining of 2 Nephi, Lehi dies, and Nephi is left alone to lead the peopl
 > 19. And when I desire to rejoice, my heart groaneth because of my sins..."
 > ~ 2 Nephi 4
 
-But Nephi had hope, showing as that if we have hope we can get through the greife of lossing loved ones and the sorrow that comes from our sins. Nephi continues:
+But Nephi had hope, showing us that if we have hope we can get through the greife of loosing loved ones and the sorrow that comes from our sins. Nephi continues:
 
 > 19. ...nevertheless, I know in whom I have atrusted.
 >
@@ -65,6 +72,10 @@ Another example we can examine is the poor and aflicted people that Alma taught 
 
 #### Jesus Christ
 
+* Talk about repentence and the _Underland_ of sin.
+
+To be honest with all of you, there are times when I read my Patriarichal blessings and just get depressed becuase it describes a version of my self that I want to, but I don't have the capacity to become.  Some might tell me to just stop thinking this way, but it's true.  I don't have the capicty to change on my own.  I can only become who I want to become with the help of the Lord.  When I remember that, I am filled with hope and love for my Saviour.
+
 * Talk about the many examples of Christ lifting people out of darkness.
 
 > "But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed."
@@ -75,7 +86,15 @@ Another example we can examine is the poor and aflicted people that Alma taught 
 
 With out the Savior, it would be impossible for us to emerge from our personal _underlands_.  I invite you to think about the _underlands_ that you are feel trapped in as we discuss how we can be more like Puddleglum, and not hopeless despair over take us.
 
+### Doubt
+
+One of the darkest _Underlands we can fall into is the underland of doubt.  With so much information out there—both true and false—it can be easy to question what we use to beleive.  Before we talk about the pure doctrine behind this, lets return to our friends in Narnia; because they too experiance the darkness of doubt.  After Puddleglum gave is inspiring speach, the green lady worked even harder to make them forget the world above.  She did this by making them belive they had made it all up and that they couldn't cope with reality.  This depressed our charaters, and they where about to give into dispare, when Puddleglum said these words:
+
 > Suppose we have only dreamed, or made up, all those things trees and grass and sun and moon and stars and Aslan himself. Suppose we  have. Then all I can say is that, in that case, the made-up things seem a good deal more important than the real ones. Suppose this black pit of a kingdom of yours is the only world. Well, it strikes me as a pretty poor one. And that's a funny thing, when you come to think of it. We're just babies making up a game, if you're right. But four babies playing a game can make a play-world which licks your real world hollow. That's why I'm going to stand by the play-world. I'm on Aslan's side even if there isn't any Aslan to lead it. I'm going to live as like a Narnian as I can even if there isn't any Narnia.
+
+With that in mind, which would you rather belive? You live in world with a living God wo loves you and sent His Son to save us from dispair.  That prophets are on the earth to lead and guide us.  Or would you rather belive that we live in a Dark world where God is silent?
+
+Today I can stand here and testify that Word is NOT made up.  God lives, his prophets speak to us, and you can repent and better your self through the Atonement of our Saviour Jesus Christ.
 
 #### We need to be examples of hope
 
@@ -135,5 +154,5 @@ Aother underland that we can get stuck in is believe that there is no hope for t
  > **"The only way to take sorrow out of death is to take love out of life"**
  > ~ President Nelson
 
- > "And what is it that ye shall ahope for? Behold I say unto you that ye shall have bhope through the atonement of Christ and the power of his resurrection, to be raised unto life ceternal, and this because of your faith in him according to the promise."
+ > "And what is it that ye shall hope for? Behold I say unto you that ye shall have bhope through the atonement of Christ and the power of his resurrection, to be raised unto life ceternal, and this because of your faith in him according to the promise."
  > ~ Moroni 7:41
